@@ -1,16 +1,25 @@
-# commander_2
+# Commander
 
-Commands Game
+The rules of the game are simple:
 
-## Getting Started
+- When receiving a command, you have to execute it at the designated time
+    - If you failed to execute a command, you will get a penalty and the other player with gain 1 extra command along with a refund
+- When sending a command, you have to abide by the command rules specified in-game, failing to abide by these rules will get you penalized and will lose 1 command
+- Players can not send 2 commands to the same person with the same timing, only 1 command at time
 
-This project is a starting point for a Flutter application.
+## Command rules
 
-A few resources to get you started if this is your first Flutter project:
+No command shall:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Lead to death
+- Include anyone who is not a player
+- Physical damage to anyone not a player
+- Violence
+- Illegal activities
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## How to gain commands
+
+- Successfully executing 3 commands in a row, will grant you 1 command
+- A player failing execute your command, you will grant you 2 commands
+- You get 3 extra commands every month
