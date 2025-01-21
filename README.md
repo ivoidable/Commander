@@ -11,12 +11,10 @@ The rules of the game are simple:
 
 No command shall:
 
-- Lead to death
+- Lead to death (optional)
 - Include anyone who is not a player
-- Physical damage to anyone not a player
-- Violence
+- Moderate to Severe Physical damage to anyone not a player (Mild or Slight physical damage is fine)
 - Illegal activities
-
 
 ## How to gain commands
 
